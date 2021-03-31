@@ -6,7 +6,7 @@ Repository for the codes
     <th>Problem statement</th>
   </tr>
   <tr>
-    <td>Centre of star graph</td>
+    <td><a href="centrestar.py">Centre of star graph</a></td>
     <td>https://leetcode.com/problems/find-center-of-star-graph/</td>
   </tr>
   <tr>
