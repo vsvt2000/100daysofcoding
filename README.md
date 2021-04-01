@@ -13,3 +13,7 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/minstack.py">Min Stack</a></td>
     <td>https://leetcode.com/explore/interview/card/top-interview-questions-easy/98/design/562/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/palindromell.py">Palindromic Linked List</a></td>
+    <td>https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3693/</td>
+  </tr>
