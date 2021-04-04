@@ -21,3 +21,7 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/reversell.py">Reverse of Linked List</a></td>
     <td>https://leetcode.com/explore/featured/card/top-interview-questions-easy/93/linked-list/560/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/mindepth.py">Minimum depth of tree</a></td>
+    <td>https://leetcode.com/problems/minimum-depth-of-binary-tree/</td>
+  </tr>
