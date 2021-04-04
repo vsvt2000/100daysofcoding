@@ -25,3 +25,7 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/mindepth.py">Minimum depth of tree</a></td>
     <td>https://leetcode.com/problems/minimum-depth-of-binary-tree/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/validparen.py">Valid Parenthesis</a></td>
+    <td>https://leetcode.com/problems/valid-parentheses//</td>
+  </tr>
