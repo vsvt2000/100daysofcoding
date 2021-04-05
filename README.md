@@ -29,3 +29,8 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/validparen.py">Valid Parenthesis</a></td>
     <td>https://leetcode.com/problems/valid-parentheses//</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/circularqueue.py">Design of a circular queue</a></td>
+    <td>https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3696//</td>
+  </tr>
+
