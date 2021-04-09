@@ -37,4 +37,8 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/consistentstrings.py">Count number of consistent strings</a></td>
     <td>https://leetcode.com/problems/count-the-number-of-consistent-strings/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/outerparen.py">Remove Outermost parenthesis</a></td>
+    <td>https://leetcode.com/problems/remove-outermost-parentheses/</td>
+  </tr>
 
