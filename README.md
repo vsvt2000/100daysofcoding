@@ -45,4 +45,8 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/oddevenll.py">Odd even linked list</a></td>
     <td>https://leetcode.com/problems/odd-even-linked-list/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/nthnodefromlast.py">Remove Nth node from end</a></td>
+    <td>https://leetcode.com/problems/remove-nth-node-from-end-of-list/</td>
+  </tr>
 
