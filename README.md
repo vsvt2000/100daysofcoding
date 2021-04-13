@@ -49,4 +49,8 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/nthnodefromlast.py">Remove Nth node from end</a></td>
     <td>https://leetcode.com/problems/remove-nth-node-from-end-of-list/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/preorderBST.py">Construct BST from Preorder Traversal</a></td>
+    <td>https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/</td>
+  </tr>
 
