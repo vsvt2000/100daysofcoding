@@ -65,5 +65,9 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/reorganize.py">Reorganize String</a></td>
     <td>https://leetcode.com/problems/reorganize-string/</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/sortedlist2bt.py">Convert Sorted List to Binary Search Tree</a></td>
+    <td>https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/</td>
+  </tr>
   
 
