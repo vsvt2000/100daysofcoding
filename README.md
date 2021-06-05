@@ -86,5 +86,10 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/sortedlist2bt.py">Convert Sorted List to Binary Search Tree</a></td>
     <td>https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/</td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/rotatell.py">Rotate a link list to the right</a></td>
+    <td>https://leetcode.com/problems/rotate-list/</td>
+  </tr>
   
 
