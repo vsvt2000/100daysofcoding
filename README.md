@@ -91,5 +91,10 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/rotatell.py">Rotate a link list to the right</a></td>
     <td>https://leetcode.com/problems/rotate-list/</td>
   </tr>
+  <tr>
+    <td>18</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/queueusingstack.py">Implement Queue using Stacks</a></td>
+    <td>https://leetcode.com/problems/implement-queue-using-stacks/</td>
+  </tr>
   
 
