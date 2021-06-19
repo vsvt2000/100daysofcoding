@@ -98,8 +98,8 @@ Repository for the codes
   </tr>
   <tr>
     <td>19</td>
-    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/reorderlist.py">Reorder List</a></td>
-    <td>https://leetcode.com/problems/reorder-list/</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/removeduplfromll.py">Remove Duplicates from sorted linked list</a></td>
+    <td>https://leetcode.com/problems/remove-duplicates-from-sorted-list/</td>
   </tr>
   <tr>
     <td>20</td>
