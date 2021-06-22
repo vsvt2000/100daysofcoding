@@ -106,5 +106,10 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/reorderlist.py">Reorder List</a></td>
     <td>https://leetcode.com/problems/reorder-list/</td>
   </tr>
+  <tr>
+    <td>21</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/evenvaluedgp.py">Sum of Nodes with Even-Valued Grandparent</a></td>
+    <td>https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/</td>
+  </tr>
   
 
