@@ -111,5 +111,10 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/evenvaluedgp.py">Sum of Nodes with Even-Valued Grandparent</a></td>
     <td>https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/</td>
   </tr>
+  <tr>
+    <td>22</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/lca.py">Lowest common ancestor of a binary search tree</a></td>
+    <td>https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem</td>
+  </tr>
   
 
