@@ -116,5 +116,10 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/lca.py">Lowest common ancestor of a binary search tree</a></td>
     <td>https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem</td>
   </tr>
+  <tr>
+    <td>23</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/checkbst.py">Is This a Binary Search Tree?</a></td>
+    <td>https://www.hackerrank.com/challenges/is-binary-search-tree/problem</td>
+  </tr>
   
 
