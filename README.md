@@ -121,5 +121,10 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/checkbst.py">Is This a Binary Search Tree?</a></td>
     <td>https://www.hackerrank.com/challenges/is-binary-search-tree/problem</td>
   </tr>
+  <tr>
+    <td>24</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/sortedarraytobst.py">Convert Sorted Array to Binary Search Tree</a></td>
+    <td>https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/</td>
+  </tr>
   
 
