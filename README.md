@@ -136,7 +136,7 @@ Repository for the codes - Python
     <th>Problem statement</th>
   </tr>
   <tr>
-    <td>25</td>
+    <td>1</td>
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/generics.java">Java generics</a></td>
     <td>https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true&h_r=next-challenge&h_v=zen</td>
   </tr>
