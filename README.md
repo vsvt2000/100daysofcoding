@@ -1,5 +1,5 @@
 # 100daysofcoding
-Repository for the codes
+Repository for the codes - Python
 <table>
   <tr>
     <th>S.no</th>
@@ -126,5 +126,21 @@ Repository for the codes
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/sortedarraytobst.py">Convert Sorted Array to Binary Search Tree</a></td>
     <td>https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/</td>
   </tr>
+  </table>
+  
+  Java 
+  <table>
+  <tr>
+    <th>S.no</th>
+    <th>Problem name</th>
+    <th>Problem statement</th>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/generics.java">Java generics</a></td>
+    <td>https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true&h_r=next-challenge&h_v=zen</td>
+  </tr>
+  
+    
   
 
