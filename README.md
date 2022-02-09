@@ -140,6 +140,11 @@ Repository for the codes - Python
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/generics.java">Java generics</a></td>
     <td>https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true&h_r=next-challenge&h_v=zen</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/palindrome.java">Java String Reverse</a></td>
+    <td>https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=truen</td>
+  </tr>
   
     
   
