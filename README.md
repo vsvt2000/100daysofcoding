@@ -126,6 +126,11 @@ Repository for the codes - Python
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/sortedarraytobst.py">Convert Sorted Array to Binary Search Tree</a></td>
     <td>https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/</td>
   </tr>
+  <tr>
+    <td>25</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/readsql.py">Retrieve file contents from database using python</a></td>
+    <td>Given a table which has two attributes, one denoting title of type varchar, and another attribute of type blob(blob is the type used to store file contents in DB). Retrieve the contents from SQL, and also print the file contents.</td>
+  </tr>
   </table>
   
   Java 
