@@ -161,12 +161,12 @@ Repository for the codes - Python
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/stack.java">Stack implementation in GoLang using Struckt</a></td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/stack.go">Stack implementation in GoLang using Struckt</a></td>
     <td>https://www.educative.io/edpresso/how-to-implement-a-stack-in-golang</td>
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/webapp.go">Creating a simple web app using golang</a></td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/webapp0.go">Creating a simple web app using golang</a></td>
     <td>https://www.youtube.com/watch?v=XqPnP3PYbC8</td>
   </tr>
   </table>
