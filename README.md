@@ -150,6 +150,11 @@ Repository for the codes - Python
     <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/palindrome.java">Java String Reverse</a></td>
     <td>https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=truen</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/vsvt2000/100daysofcoding/blob/main/bst.java">Binary Search Tree in Java - Basic Ops</a></td>
+    <td>Implementation of BST in Java. Operations include element addition and searching</td>
+  </tr>
   </table>
   
   Golang
